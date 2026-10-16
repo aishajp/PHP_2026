@@ -3,7 +3,7 @@ $nombre = "Aisha";
 $apellidos = "Juan-Aracil Proenza";
 $edad = 21;
 $ciudad = "Piedras Blancas";
-$email = "tucorreo@ejemplo.com";
+$email = "aishajp09@educastur.es";
 ?>
 <!DOCTYPE html>
 <html lang="es">
